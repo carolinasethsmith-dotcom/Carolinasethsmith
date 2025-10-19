@@ -51,7 +51,7 @@ Mi pasión es unir el deporte, la educación y la tecnología para crear proyect
 
 # 🇬🇧 Hi! I’m **Carolina Seth Smith**
 
-I’m a bilingual Professional Yachtmaster Ocean (Spanish–English), **Starlight Astronomical instructor and Science Communicator at FAAE **, with experience in **DALS interpretation**, **nautical training**, **astrotourism**, and ongoing learning in **artificial intelligence and digital automation**.  
+I’m a bilingual Professional Yachtmaster Ocean (Spanish–English), Starlight Astronomical instructor and Science Communicator at FAAE, with experience in **DALS interpretation**, **nautical training**, **astrotourism**, and ongoing learning in **artificial intelligence and digital automation**.  
 
 My passion is to combine sports, education, and technology to create sustainable and innovative projects — both at sea and in the digital world.  
 
