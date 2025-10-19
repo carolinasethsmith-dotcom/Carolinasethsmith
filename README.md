@@ -12,15 +12,16 @@ Mi pasión es unir el deporte, la educación y la tecnología para crear proyect
 
 ## 🚀 **Proyectos destacados**
 
-- 🧭 [Formación Náutica PPER](https://github.com/carolinasethsmith/PPER_Formacion_Nautica)  
+- 📄 [CV y Perfil](https://github.com/carolinasethsmith/CV_and_Profile)
+- 🧭 [Formación Náutica PPER](https://github.com/carolinasethsmith/PPER_Nautical_Training)  
   Metodología, materiales y flujo de trabajo docente para licencias de navegación.  
-- 🎧 [Interpretación DALS](https://github.com/carolinasethsmith/Interpretacion_DALS)  
+- 🎧 [Interpretación DALS](https://github.com/carolinasethsmith/Interpreting_DALS)  
   Interpretación telefónica profesional en contextos médico, policial y administrativo.  
-- 🌌 [Astroturismo Náutico](https://github.com/carolinasethsmith/Astroturismo_Nautico)  
+- 🌌 [Astroturismo Náutico](https://github.com/carolinasethsmith/Nautical_Astrotourism)  
   Proyectos de turismo astronómico y navegación sostenible en el Mediterráneo.  
 - 🤖 [IA y SuperAnnotate](https://github.com/carolinasethsmith/IA_y_SuperAnnotate)  
   Notas y prácticas de anotación de datos multimodales y visión computacional.  
-- ⚙️ [Flujos Digitales y Automatización](https://github.com/carolinasethsmith/Flujos_Digitales_y_Automatizacion)  
+- ⚙️ [Flujos Digitales y Automatización](https://github.com/carolinasethsmith/Digital_Workflows_and_Automation)  
   Ejemplos reales de automatización de procesos.
 
 ---
@@ -59,15 +60,16 @@ My passion is to combine sports, education, and technology to create sustainable
 
 ## 🚀 **Featured Projects**
 
-- 🧭 [PPER Nautical Training](https://github.com/carolinasethsmith/PPER_Formacion_Nautica)  
+- 📄 [CV and Profile](https://github.com/carolinasethsmith/CV_and_Profile)
+- 🧭 [PPER Nautical Training](https://github.com/carolinasethsmith/PPER_Nautical_Training)  
   Teaching methodology and workflow for navigation licenses.  
-- 🎧 [DALS Interpretation](https://github.com/carolinasethsmith/Interpretacion_DALS)  
+- 🎧 [DALS Interpretation](https://github.com/carolinasethsmith/Interpreting_DALS)  
   Professional phone interpreting in medical, police, and administrative fields.  
-- 🌌 [Nautical Astrotourism](https://github.com/carolinasethsmith/Astroturismo_Nautico)  
+- 🌌 [Nautical Astrotourism](https://github.com/carolinasethsmith/Nautical_Astrotourism)  
   Astronomical navigation and sustainable tourism projects in the Mediterranean.  
 - 🤖 [AI and SuperAnnotate](https://github.com/carolinasethsmith/IA_y_SuperAnnotate)  
   Notes and examples on multimodal data annotation and computer vision.  
-- ⚙️ [Digital Workflows and Automation](https://github.com/carolinasethsmith/Flujos_Digitales_y_Automatizacion)  
+- ⚙️ [Digital Workflows and Automation](https://github.com/carolinasethsmith/Digital_Workflows_and_Automation)  
   Workflow automation. 
 
 ---
