@@ -38,7 +38,8 @@ I’m currently studying **Digital Skills Training** to enhance my technical and
 
 ### 🌐 Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌍 [Website](https://yourwebsite.com)  
+- 🌍 [Website](https://boatlicencespain.com)
+- 🌍 [Website](https://astroturismonautico.com)  
 - 🐙 [GitHub Projects](https://github.com/carolinasethsmith-dotcom)
 
 ---
@@ -76,7 +77,8 @@ Actualmente curso una **Capacitación Digital** para ampliar mis habilidades té
 
 ### 🌐 Conectar
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌍 [Sitio web](https://yourwebsite.com)  
+- 🌍 [Sitio web](https://boatlicencespain.com)
+- 🌍 [Sitio web](https://astroturismonautico.com) 
 - 🐙 [Proyectos en GitHub](https://github.com/carolinasethsmith-dotcom)
 
 ---
