@@ -41,7 +41,9 @@ I’m currently studying **Digital Skills Training** to enhance my technical and
 - 🌍 [Website](https://boatlicencespain.com)
 - 🌍 [Website](https://astroturismonautico.com)  
 - 🐙 [GitHub Projects](https://github.com/carolinasethsmith-dotcom)
-
+```markdown
+Nota: este repositorio público solo sirve como tarjeta de presentación. El código completo y los datos están en repositorios privados por protección comercial.
+```
 ---
 
 ## 🇪🇸 Español
