@@ -1,3 +1,5 @@
+![Header Banner](./banner.jpg)
+
 # 🌊 Carolina Seth-Smith — Professional Portfolio  
 Exploring the intersection of the **sea, the stars, and technology**
 
