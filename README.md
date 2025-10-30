@@ -83,4 +83,10 @@ Actualmente curso una **Capacitación Digital** para ampliar mis habilidades té
 
 ---
 
-_Last updated: October 2025_
+*Note — This page is available in English and Spanish.*  
+*If you'd like more details about any repository (setup, data, usage, license, or to collaborate), please contact me via [GitHub](https://github.com/carolinasethsmith-dotcom), [LinkedIn](https://linkedin.com/in/carolinasethsmith, or open an issue on the specific repository.*  
+*Last updated: 2025-10-30*
+
+*Nota — Esta página está disponible en inglés y español.*  
+*Si deseas más detalles sobre cualquiera de los repositorios (configuración, datos, uso, licencia o para colaborar), contáctame por [GitHub](https://github.com/carolinasethsmith-dotcom), [LinkedIn](https://linkedin.com/in/carolinasethsmith), o abre un issue en el repositorio correspondiente.*  
+*Última actualización: 2025-10-30*
