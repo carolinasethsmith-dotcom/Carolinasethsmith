@@ -8,7 +8,7 @@ Exploring the intersection of the **sea, the stars, and technology**
 ## 🇬🇧 English
 
 ### 👋 Welcome  
-I’m a bilingual professional skipper, astronomy instructor, and digital learner focused on automation, AI, and data annotation.  
+I’m a bilingual professional skipper, astronomy instructor, and digital learner focused on automation and AI.  
 This portfolio connects my work in **marine environments**, **astronomy education**, and **digital innovation**.
 
 **🎯 Goal:**  
@@ -31,8 +31,8 @@ To merge maritime experience with digital tools for sustainable learning, remote
 ---
 
 ### 🧭 Learning Path
-I’m currently studying **Digital Skills Training** to enhance my technical and automation abilities.  
-**Next steps:** build complete automation workflows and improve AI annotation proficiency.
+I’m currently studying **Data & Digital Skills Training** to enhance my technical and automation abilities.  
+**Next steps:** build complete automation workflows and improve AI proficiency.
 
 ---
 
